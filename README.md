@@ -149,7 +149,6 @@ The model generates the final answer using the retrieved document context.
 
 - Python
 - Jupyter Notebook
-- Google Colab
 - PyPDF
 - Sentence Transformers
 - ChromaDB
